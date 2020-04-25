@@ -1,5 +1,5 @@
 ## SHORTCUTS
-### Key/Command	Description
+ Key/Command	Description
 
 ```
 Tab	        Auto-complete files and folder names
@@ -16,7 +16,7 @@ Ctrl + C	Kill whatever you are running
 Ctrl + D	Exit the current shell
 ```
 
-### CORE COMMANDS
+ CORE COMMANDS
 
 ```
 cd		Home directory
@@ -47,7 +47,7 @@ ctrl-r		Interactively search through previously typed commands
 !!		Execute the last command typed
 ```
 
-### FILE MANAGEMENT
+ FILE MANAGEMENT
 
 ```
 touch [file]	Create new file
@@ -67,7 +67,7 @@ cp [file] [dir]	Copy file to directory
 mv [file] [new filename]	Move/Rename, e.g. mv -v [file] [dir]
 ```
 
-### DIRECTORY MANAGEMENT
+ DIRECTORY MANAGEMENT
 
 ```
 mkdir [dir]	Create new directory
@@ -81,7 +81,7 @@ more		Output content delivered in screensize chunks
 <		Tell command to read content from a fi
 ```
 
-### HELP
+ HELP
 
 ```
 [command] -h	Offers help
@@ -91,3 +91,19 @@ reset	Resets the terminal display
 man [command]	Show the help for ‘command’
 whatis [command]	Gives a one-line description of ‘command’
 ```
+
+
+## React Command
+
+
+```
+$ npx create-react-app name-of-file
+$ cd name-of-file
+$ npm start
+```
+
+local server 3000 will open
+
+```
+create a new tab in terminal
+cd to local directory and name-of-file
